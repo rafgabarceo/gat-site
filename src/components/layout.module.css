@@ -1,0 +1,26 @@
+/*The module.css at the end of the file tells Gatsby that this is a module and can be easily imported.*/
+
+.container {
+    margin: auto;
+    max-width: 500px;
+    font-family: sans-serif;
+}
+
+.heading {
+    color: rebeccapurple;
+}
+
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav-link-item {
+    padding-right: 2rem;
+}
+
+.nav-link-text {
+    color: black;
+}
